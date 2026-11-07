@@ -51,8 +51,8 @@ SERVICES = [
         "slug": "gst-services", "icon": "gst", "name": "GST registration & returns",
         "short": "Registration, monthly and quarterly returns, annual GSTR-9, LUT, refunds and notices.",
         "bullets": ["GSTIN registration and amendments", "GSTR-1, GSTR-3B and QRMP returns", "GSTR-9 annual return, LUT and refunds"],
-        "title": "GST Registration & Returns in Thiruvananthapuram",
-        "desc": "GST registration, monthly GSTR-1 and GSTR-3B, QRMP, GSTR-9, LUT, refunds and notice replies for businesses in Thiruvananthapuram and Kerala. Fixed fees.",
+        "title": "GST Registration & Return Filing Online",
+        "desc": "GST registration, monthly GSTR-1 and GSTR-3B, QRMP, GSTR-9, LUT, refunds and notice replies for businesses anywhere in India. Fixed fees, fully online.",
         "intro": "GST is a monthly habit, not a once-a-year job. We take care of it every month so your returns go in on time, your input tax credit is matched, and late fees stop being a line item.",
         "body": [
             ("What we handle", ["New GST registration, including documents, place-of-business proof and replies to officer queries", "Monthly or quarterly returns: GSTR-1, GSTR-3B and the QRMP scheme with invoice furnishing", "Reconciliation of your purchases with GSTR-2B before every return, so you claim the credit you are entitled to", "GSTR-9 annual return and reconciliation with your books", "Letter of Undertaking (LUT) for exporters and refund applications", "Amendments, cancellation and revocation of registration", "Replies to notices, mismatches and scrutiny, with clear explanations of what the department is asking"]),
@@ -67,15 +67,15 @@ SERVICES = [
         "slug": "income-tax-tds", "icon": "tax", "name": "Income tax & TDS",
         "short": "Returns for individuals, firms, LLPs and companies, TDS returns, Form 16 and advance tax.",
         "bullets": ["ITR for individuals, firms, LLPs and companies", "Quarterly TDS returns and Form 16 / 16A", "Advance tax planning and notice replies"],
-        "title": "Income Tax & TDS Return Filing, Thiruvananthapuram",
-        "desc": "Income tax returns for individuals, doctors, firms, LLPs and companies, quarterly TDS returns, Form 16, advance tax and notice replies in Thiruvananthapuram.",
+        "title": "Income Tax & TDS Return Filing Online",
+        "desc": "Income tax returns for individuals, firms, LLPs and companies, quarterly TDS returns, Form 16, advance tax and notice replies. Online across India and for NRIs.",
         "intro": "Whether it is one salaried person's return or a company's TDS for the whole year, we prepare it carefully, check it against the department's records, and file on time.",
         "body": [
             ("Income tax returns", ["Individuals: salaried, pensioners, NRIs, doctors and other professionals, with capital gains and rental income where needed", "Proprietorships, partnership firms, LLPs and companies, prepared from properly finalised accounts", "Every return checked against AIS and Form 26AS before filing, so mismatches are caught before the department finds them", "Advance tax worked out each quarter, so there are no surprises in March", "Replies to notices for mismatch, defective returns and outstanding demands"]),
             ("TDS and TCS", ["Monthly TDS working and challans for salaries, rent, contractors and professional fees", "Quarterly returns: Form 24Q, 26Q and 27Q", "Form 16 and Form 16A for your employees and vendors", "Correction statements and clearing defaults on TRACES"]),
             ("Worth knowing", ["The new Income-tax Act, 2025 applies from 1 April 2026. We keep track of the changes in forms and terms so you don't have to", "If your clients deduct TDS from your fees, we make sure it reflects in your 26AS and is claimed in your return"]),
         ],
-        "faq": [("When is the due date for filing my income tax return?", "For most individuals and businesses that don't need an audit, the due date is 31 July after the year ends. Audited businesses usually have until 31 October. Dates are sometimes extended, so check our compliance calendar or ask us."),
+        "faq": [("When is the due date for filing my income tax return?", "For most individuals and small businesses, the due date is 31 July after the year ends. Companies and larger businesses usually have until 31 October. Dates are sometimes extended, so check our compliance calendar or ask us."),
                 ("I received an income tax notice. What should I do?", "Don't ignore it and don't reply in a hurry. Send us the notice. We will tell you what it means, what the deadline is, and prepare the reply with the right documents."),
                 ("Do you file TDS returns for small businesses and associations?", "Yes. We file TDS returns for companies, firms, doctors, societies and associations. Missed TDS returns attract a late fee of ₹200 a day, so it is worth getting them up to date.")],
     },
@@ -83,30 +83,30 @@ SERVICES = [
         "slug": "company-llp-compliance", "icon": "roc", "name": "Company & LLP compliance",
         "short": "ROC annual filings, AOC-4, MGT-7, LLP Form 8 and 11, DIR-3 KYC, board minutes and changes.",
         "bullets": ["AOC-4, MGT-7 / 7A, ADT-1 and AGM paperwork", "LLP Form 8 and Form 11", "Director KYC, partner changes and name changes"],
-        "title": "Company & LLP ROC Compliance in Kerala",
-        "desc": "ROC compliance for companies and LLPs in Kerala: AOC-4, MGT-7, ADT-1, DIR-3 KYC, LLP Form 8 and 11, AGM paperwork, partner changes and backlog filings.",
+        "title": "Company & LLP ROC Compliance Online",
+        "desc": "ROC compliance for companies and LLPs across India: AOC-4, MGT-7, ADT-1, DIR-3 KYC, LLP Form 8 and 11, AGM paperwork, partner changes and backlog filings.",
         "intro": "MCA penalties add up at ₹100 a day per form, and a missed filing can disqualify directors. We run your company or LLP compliance on a calendar, so filings are prepared well before the due date.",
         "body": [
-            ("Private limited companies", ["Board meetings and the AGM: notices, minutes and resolutions", "AOC-4 (financial statements) and MGT-7 / MGT-7A (annual return)", "ADT-1 for auditor appointment, DIR-3 KYC for directors", "DPT-3, MSME-1 and INC-20A where they apply", "Change of name, registered office, directors or share capital", "Clearing old backlogs, including filings that were missed for several years"]),
+            ("Private limited companies", ["Board meetings and the AGM: notices, minutes and resolutions", "AOC-4 (financial statements) and MGT-7 / MGT-7A (annual return)", "ADT-1 and DIR-3 KYC for directors", "DPT-3, MSME-1 and INC-20A where they apply", "Change of name, registered office, directors or share capital", "Clearing old backlogs, including filings that were missed for several years"]),
             ("LLPs", ["Form 11 (annual return) by 30 May and Form 8 (statement of accounts) by 30 October", "Designated partner KYC", "Admission and retirement of partners, with the supplementary LLP agreement and Form 3 and Form 4 filings", "Changes to contribution, business activity or address"]),
-            ("Foreign-owned companies", ["Annual FLA return to the RBI for companies with foreign investment", "Coordination of transfer pricing reports and FEMA reporting with your auditors"]),
+            ("Foreign-owned companies", ["Annual FLA return to the RBI for companies with foreign investment", "FEMA reporting and transfer pricing documentation support"]),
         ],
         "faq": [("What happens if my company does not file AOC-4 and MGT-7?", "The company pays an additional fee of ₹100 a day for each form, and after continuing defaults the directors can be disqualified and the company can be struck off. If you are behind, the sooner it is fixed, the lower the cost."),
-                ("Is audit compulsory for my LLP?", "An LLP needs an audit if its turnover exceeds ₹40 lakh or contribution exceeds ₹25 lakh in a year. Below that, the accounts are certified by the partners. Audits are carried out by practising Chartered Accountants we work with."),
+                ("When are LLP Form 8 and Form 11 due?", "Form 11, the annual return, is due by 30 May. Form 8, the statement of accounts and solvency, is due by 30 October. Late filing attracts ₹100 a day for each form, with no upper limit, so we file both well before the dates."),
                 ("Can you handle a partner leaving our LLP?", "Yes. We draft the retirement and admission documents, the supplementary LLP agreement, and file Form 3 and Form 4 with the MCA.")],
     },
     {
         "slug": "accounting-bookkeeping", "icon": "books", "name": "Accounting & bookkeeping",
         "short": "Monthly books in Tally, Zoho Books or Xero, financial statements and MIS for owners and banks.",
         "bullets": ["Monthly bookkeeping and bank reconciliation", "Year-end financial statements", "Project reports and CMA data for loans"],
-        "title": "Accounting & Bookkeeping in Thiruvananthapuram",
-        "desc": "Monthly bookkeeping in Tally, Zoho Books and Xero, financial statements, MIS, project reports and CMA data for bank loans, for businesses in Kerala.",
+        "title": "Online Accounting & Bookkeeping Services",
+        "desc": "Monthly bookkeeping in Tally, Zoho Books and Xero, financial statements, MIS, project reports and CMA data for bank loans, for businesses across India.",
         "intro": "Good books make every other job easier: tax returns, bank loans, investor questions and your own decisions. We keep your accounts up to date every month, not in a rush at year-end.",
         "body": [
             ("Monthly accounting", ["Bookkeeping in Tally Prime, Zoho Books or Xero, from your bank statements, invoices and bills", "Bank, GST and vendor reconciliations", "Simple monthly reports: sales, expenses, profit, receivables and payables", "Payroll processing and salary statements"]),
-            ("Year-end and reporting", ["Financial statements in the required format for companies, LLPs, firms and proprietors", "Coordination with your auditor and preparation of schedules", "Books for a new company's first year, set up properly from day one"]),
+            ("Year-end and reporting", ["Financial statements in the required format for companies, LLPs, firms and proprietors", "Supporting schedules and working papers for year-end finalisation", "Books for a new company's first year, set up properly from day one"]),
             ("For loans and funding", ["Projected financial statements and project reports", "CMA data for bank loans, including renewals", "Working-capital and repayment projections that a bank can follow"]),
-            ("For overseas accounting practices", ["Outsourced bookkeeping and payroll in Xero for small practices in Australia and elsewhere, handled by our team in Kerala"]),
+            ("For overseas accounting practices", ["Outsourced bookkeeping and payroll in Xero for small practices in Australia and elsewhere, handled by our team in India"]),
         ],
         "faq": [("Which accounting software do you work with?", "Tally Prime, Zoho Books and Xero. If you don't use any software yet, we will suggest one that suits the size of your business and set it up."),
                 ("Can you prepare a project report for my bank loan?", "Yes. We prepare projected financial statements, project reports and CMA data based on your actual numbers and a realistic plan, in the format banks expect."),
@@ -116,8 +116,8 @@ SERVICES = [
         "slug": "business-registration", "icon": "start", "name": "Business setup & registrations",
         "short": "Private limited company and LLP incorporation, GST, IEC, Udyam, and setup for foreign founders.",
         "bullets": ["Company and LLP incorporation", "GST, IEC, Udyam (MSME) and PAN/TAN", "LLPs and companies with foreign partners"],
-        "title": "Company & LLP Registration in Thiruvananthapuram",
-        "desc": "Private limited company and LLP registration, GST, IEC, Udyam, DSC and DIN, and setup for foreign founders with Indian partners, in Thiruvananthapuram.",
+        "title": "Company & LLP Registration Online in India",
+        "desc": "Private limited company and LLP registration, GST, IEC, Udyam, DSC and DIN, and setup for foreign founders with Indian partners, done fully online.",
         "intro": "Starting a business involves a dozen registrations in the right order. We tell you which structure fits, then handle the paperwork end to end so you can get on with the business.",
         "body": [
             ("Choosing the right structure", ["An honest comparison of proprietorship, partnership, LLP and private limited company for your plans, tax position and funding needs", "For foreign nationals starting in India: the options available with a resident Indian partner, and what each means for ownership and reporting"]),
@@ -131,9 +131,9 @@ SERVICES = [
 ]
 
 FAQ_HOME = [
-    ("Which areas do you serve?", "We are based in Thiruvallam, Thiruvananthapuram, and work with clients across Kerala. Most work is done online, so we also work with NRIs and businesses elsewhere in India."),
+    ("Which areas do you serve?", "Clients anywhere in India, and NRIs and foreign founders abroad. Almost everything is done online, through WhatsApp, email, phone and shared folders, so where you are makes no difference. If you prefer to meet in person, you are welcome at our office."),
     ("How are your fees decided?", "We quote a fixed fee before we start, based on the work involved. Government fees, challans and late fees are passed on at actual cost, with receipts. No surprises on the invoice."),
-    ("Do you do audits?", "Statutory and tax audits are carried out and signed by practising Chartered Accountants we work with. We prepare the books, schedules and filings around the audit, so the whole process stays in one place for you."),
+    ("Can I reach you outside office hours?", "Yes. Send us a WhatsApp message or email any time, including weekends, and we reply as soon as we can, usually the same day. When a deadline is close, we stay available until the filing is done."),
     ("I am behind on my filings. Can you help?", "Yes, and it is more common than you think. We list everything that is pending, work out the penalties, and bring you up to date in the order that saves you the most money."),
     ("How do I share documents with you?", "Whatever is easiest for you: WhatsApp, email, a shared Google Drive folder, or drop them at our office. We send a short checklist so you know exactly what is needed."),
     ("How do you make sure deadlines are not missed?", "Every client's GST, TDS, income tax and ROC due dates are on our own compliance desk, which flags what is due and what is overdue every day. You get reminders well before the due date."),
@@ -164,10 +164,10 @@ WHY = [
 
 # Compliance calendar (standard due dates; extensions are announced from time to time).
 CAL = [
-    ("Every month", [("7th", "TDS and TCS payment for the previous month", "TDS"), ("11th", "GSTR-1 for monthly filers", "GST"), ("13th", "IFF for QRMP filers (first two months of a quarter)", "GST"), ("15th", "PF and ESI contributions", "Payroll"), ("20th", "GSTR-3B for monthly filers", "GST"), ("22nd / 24th", "GSTR-3B for QRMP filers, in the month after each quarter (22nd for Kerala)", "GST")]),
+    ("Every month", [("7th", "TDS and TCS payment for the previous month", "TDS"), ("11th", "GSTR-1 for monthly filers", "GST"), ("13th", "IFF for QRMP filers (first two months of a quarter)", "GST"), ("15th", "PF and ESI contributions", "Payroll"), ("20th", "GSTR-3B for monthly filers", "GST"), ("22nd / 24th", "GSTR-3B for QRMP filers, in the month after each quarter (22nd or 24th, depending on your state)", "GST")]),
     ("April – June 2026", [("30 Apr", "TDS payment for March; MSME-1 for October to March", "TDS / ROC"), ("30 May", "LLP Form 11 annual return", "LLP"), ("31 May", "TDS return for January to March (Q4)", "TDS"), ("15 Jun", "Advance tax, first instalment (15%); Form 16 to employees", "Income tax"), ("30 Jun", "DPT-3 return of deposits", "ROC")]),
-    ("July – September 2026", [("15 Jul", "FLA return to the RBI (companies with foreign investment)", "FEMA"), ("31 Jul", "Income tax return for individuals and non-audit cases; TDS return for April to June (Q1)", "Income tax / TDS"), ("15 Sep", "Advance tax, second instalment (45%)", "Income tax"), ("30 Sep", "Tax audit report; DIR-3 KYC for directors; last date for the company AGM", "Income tax / ROC")]),
-    ("October – December 2026", [("14 Oct", "ADT-1 auditor appointment (15 days from AGM)", "ROC"), ("29 Oct", "AOC-4 financial statements (30 days from AGM)", "ROC"), ("30 Oct", "LLP Form 8 statement of accounts", "LLP"), ("31 Oct", "Income tax return for audit cases; TDS return for July to September (Q2); MSME-1 for April to September", "Income tax / TDS"), ("29 Nov", "MGT-7 / MGT-7A annual return (60 days from AGM)", "ROC"), ("15 Dec", "Advance tax, third instalment (75%)", "Income tax"), ("31 Dec", "GSTR-9 and GSTR-9C annual returns; last date for belated or revised income tax returns", "GST / Income tax")]),
+    ("July – September 2026", [("15 Jul", "FLA return to the RBI (companies with foreign investment)", "FEMA"), ("31 Jul", "Income tax return for individuals and most small businesses; TDS return for April to June (Q1)", "Income tax / TDS"), ("15 Sep", "Advance tax, second instalment (45%)", "Income tax"), ("30 Sep", "DIR-3 KYC for directors; last date for the company AGM", "Income tax / ROC")]),
+    ("October – December 2026", [("14 Oct", "ADT-1 filing (15 days from AGM)", "ROC"), ("29 Oct", "AOC-4 financial statements (30 days from AGM)", "ROC"), ("30 Oct", "LLP Form 8 statement of accounts", "LLP"), ("31 Oct", "Income tax return for companies and other businesses with a 31 October due date; TDS return for July to September (Q2); MSME-1 for April to September", "Income tax / TDS"), ("29 Nov", "MGT-7 / MGT-7A annual return (60 days from AGM)", "ROC"), ("15 Dec", "Advance tax, third instalment (75%)", "Income tax"), ("31 Dec", "GSTR-9 and GSTR-9C annual returns; last date for belated or revised income tax returns", "GST / Income tax")]),
     ("January – March 2027", [("31 Jan", "TDS return for October to December (Q3)", "TDS"), ("15 Mar", "Advance tax, final instalment (100%)", "Income tax"), ("31 Mar", "Year-end: GST LUT for the next year, closing entries, tax-saving investments", "Planning")]),
 ]
 
@@ -180,7 +180,7 @@ ORG = {
     "name": FIRM["name"], "url": SITE + "/", "logo": SITE + "/assets/img/logo.png", "image": SITE + "/assets/img/og-image.png",
     "telephone": FIRM["tel1"], "email": FIRM["email"],
     "address": {"@type": "PostalAddress", "streetAddress": FIRM["street"], "addressLocality": FIRM["city"], "addressRegion": FIRM["region"], "postalCode": FIRM["pin"], "addressCountry": "IN"},
-    "areaServed": [{"@type": "State", "name": "Kerala"}, {"@type": "Country", "name": "India"}],
+    "areaServed": {"@type": "Country", "name": "India"},
     "knowsAbout": ["GST", "Income tax", "TDS", "ROC compliance", "LLP compliance", "Bookkeeping", "Company registration"],
     "priceRange": "₹₹",
 }
@@ -210,8 +210,13 @@ def page(path, title, desc, body, current="", extra_ld=None, robots="index, foll
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{SITE}/assets/img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{FIRM["name"]}: accounting, tax and compliance professionals">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{e(title)}">
+<meta name="twitter:description" content="{e(desc)}">
 <link rel="icon" type="image/png" href="assets/img/icon-64.png">
 <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
 <link rel="preload" href="assets/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
@@ -236,7 +241,7 @@ def page(path, title, desc, body, current="", extra_ld=None, robots="index, foll
     <div class="cols">
       <div>
         <img src="assets/img/logo-white.png" alt="{FIRM["name"]}" width="398" height="101">
-        <p>Accounting, tax and compliance for businesses in Kerala.</p>
+        <p>Accounting, tax and compliance for businesses across India and NRIs worldwide.</p>
       </div>
       <div><h3>Services</h3><ul>{svc_links}</ul></div>
       <div><h3>Company</h3><ul><li><a href="index.html#about">About us</a></li><li><a href="compliance-calendar.html">Compliance calendar</a></li><li><a href="contact.html">Contact</a></li><li><a href="privacy.html">Privacy</a></li></ul></div>
@@ -292,11 +297,11 @@ def home():
     faq = "".join(f"<details><summary>{e(q)}</summary><p>{e(a)}</p></details>" for q, a in FAQ_HOME)
     body = f'''<section class="hero"><div class="wrap">
   <div>
-    <span class="eyebrow">Accounting · Tax · Compliance · Thiruvananthapuram</span>
+    <span class="eyebrow">Accounting · Tax · Compliance · Across India</span>
     <h1>Your GST, tax and company filings, <em>handled on time</em>, every time.</h1>
-    <p class="lead">We are an accounting and compliance firm in Thiruvallam, Thiruvananthapuram. We look after GST, income tax, TDS, ROC filings and books for small businesses, companies, LLPs and professionals across Kerala, so you can spend your time on the business.</p>
+    <p class="lead">We are a group of professionals in accounting, tax and corporate compliance. We look after GST, income tax, TDS, ROC filings and books for businesses, companies, LLPs, professionals and NRIs, wherever they are, so you can spend your time on the business.</p>
     <div class="cta-row"><a class="btn btn-primary" href="contact.html">Get a fixed-fee quote</a><a class="btn btn-wa" href="https://wa.me/{FIRM["wa"]}" target="_blank" rel="noopener">{WA_SVG} WhatsApp us</a></div>
-    <ul class="ticks"><li>Fixed fees, agreed before we start</li><li>Every due date tracked for you</li><li>One point of contact for all filings</li><li>Online or at our office</li></ul>
+    <ul class="ticks"><li>Fixed fees, agreed before we start</li><li>Every due date tracked for you</li><li>One point of contact for all filings</li><li>Work with us from anywhere, any time</li></ul>
   </div>
   {board()}
 </div></section>
@@ -317,9 +322,9 @@ def home():
 </div></section>
 
 <section class="alt" id="about"><div class="wrap split">
-  <div><span class="eyebrow">About us</span><h2 class="h2-about">A local firm that treats your deadlines as its own</h2>
-    <p class="lead mb-s">{FIRM["name"]} is a limited liability partnership based in Thiruvallam, Thiruvananthapuram. We started by doing GST and books for local businesses and grew into a full compliance practice for companies, LLPs, professionals and associations.</p>
-    <p class="muted">We run our own practice on a compliance desk that tracks every client's filings, hours and due dates. Audits and certifications are carried out by practising Chartered Accountants we work closely with, so you get everything through one door.</p></div>
+  <div><span class="eyebrow">About us</span><h2 class="h2-about">A team that treats your deadlines as its own</h2>
+    <p class="lead mb-s">{FIRM["name"]} is a group of professionals in accounting, tax and corporate compliance, organised as a limited liability partnership. We started with GST and books for small businesses and grew into a full compliance practice for companies, LLPs, professionals, associations and NRIs across India.</p>
+    <p class="muted">We run our own practice on a compliance desk that tracks every client's filings, hours and due dates. Because everything is handled online, we can help you wherever you are, and you deal with one team for all of it.</p></div>
   <div class="points">{why}</div>
 </div></section>
 
@@ -334,8 +339,8 @@ def home():
 </div></section>
 
 <section class="alt" id="contact"><div class="wrap">{contact_block()}</div></section>'''
-    return page("index.html", "GST, Tax & ROC Compliance in Thiruvananthapuram | Cloudbook",
-                "GST, income tax, TDS, accounting and company/LLP compliance for businesses in Thiruvananthapuram and Kerala. Fixed fees, every due date tracked.",
+    return page("index.html", "GST, Tax & ROC Compliance Services Online | Cloudbook",
+                "GST, income tax, TDS, accounting and company/LLP compliance for businesses across India and NRIs. Fixed fees, every due date tracked.",
                 body, extra_ld=[faq_ld(FAQ_HOME)])
 
 def service_page(s):
@@ -343,7 +348,7 @@ def service_page(s):
     faq = "".join(f"<details><summary>{e(q)}</summary><p>{e(a)}</p></details>" for q, a in s["faq"])
     others = "".join(f'<li><a href="{o["slug"]}.html">{e(o["name"])}</a></li>' for o in SERVICES if o is not s)
     crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": s["name"], "item": f'{SITE}/{s["slug"]}.html'}]}
-    svc = {"@context": "https://schema.org", "@type": "Service", "name": s["name"], "description": s["desc"], "provider": {"@id": SITE + "/#firm"}, "areaServed": {"@type": "State", "name": "Kerala"}}
+    svc = {"@context": "https://schema.org", "@type": "Service", "name": s["name"], "description": s["desc"], "provider": {"@id": SITE + "/#firm"}, "areaServed": {"@type": "Country", "name": "India"}}
     body = f'''<section class="page-hero"><div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><a href="index.html">Home</a> / <a href="index.html#services">Services</a> / {e(s["name"])}</nav>
   <h1>{e(s["name"])}</h1><p class="lead">{e(s["intro"])}</p>
   <div class="cta-row mt"><a class="btn btn-primary" href="contact.html">Get a fixed-fee quote</a><a class="btn btn-wa" href="https://wa.me/{FIRM["wa"]}?text={urllib.parse.quote("Hello, I need help with " + s["name"])}" target="_blank" rel="noopener">{WA_SVG} WhatsApp us</a></div></div></section>
@@ -377,15 +382,15 @@ def calendar_page():
   <h3 class="mt-s">Services</h3><ul>{"".join(f'<li><a href="{s["slug"]}.html">{e(s["name"])}</a></li>' for s in SERVICES)}</ul></aside>
 </div></section>'''
     return page("compliance-calendar.html", "Compliance Calendar 2026-27: GST, TDS, ITR & ROC | Cloudbook",
-                "All GST, TDS, income tax, advance tax, ROC and LLP due dates for FY 2026-27 in one calendar, with late fees, from Cloudbook Associates LLP, Thiruvananthapuram.",
+                "All GST, TDS, income tax, advance tax, ROC and LLP due dates for FY 2026-27 in one calendar, with late fees, from Cloudbook Associates LLP.",
                 body, current="Compliance calendar")
 
 def contact_page():
     body = f'''<section class="page-hero"><div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><a href="index.html">Home</a> / Contact</nav>
   <h1>Contact Cloudbook Associates</h1><p class="lead">Tell us what you need. We usually reply the same working day with a clear next step and a fixed quote.</p></div></section>
 <section><div class="wrap">{contact_block(heading=False)}</div></section>'''
-    return page("contact.html", "Contact Cloudbook Associates LLP, Thiruvallam, Trivandrum",
-                "Cloudbook Associates LLP, Harmony Heights, Thiruvallam, Thiruvananthapuram 695027. Call or WhatsApp +91 94472 49439 for GST, tax and compliance help.",
+    return page("contact.html", "Contact Cloudbook Associates LLP | Call or WhatsApp",
+                "Call or WhatsApp +91 94472 49439, or email us, for GST, income tax, TDS and company compliance help, from anywhere in India or abroad. We reply quickly.",
                 body, current="Contact")
 
 def privacy_page():
